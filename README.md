@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Livia ☺
 
 - 👷‍♀️ Engenheira Civil
-- 💻 Futura desenvolvedora front-end
+- 💻 Desenvolvedora front-end
 - ✏ Estudando: HTML, CSS, JavaScript
 - 📚 Irei estudar: React, TypeScript, Angular
 - 🎯 Conhecimentos: HTML, CSS, Java, Metodologias ágeis
