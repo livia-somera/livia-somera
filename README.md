@@ -2,9 +2,9 @@
 
 - 👷‍♀️ Engenheira Civil
 - 💻 Desenvolvedora front-end
-- ✏ Estudando: HTML, CSS, JavaScript
-- 📚 Irei estudar: React, TypeScript, Angular
 - 🎯 Conhecimentos: HTML, CSS, Java, Metodologias ágeis
+- ✏ Estudando: JavaScript
+- 📚 Irei estudar: React, TypeScript, Angular
 - 🎨 Interesses: Desenvolvimento Web, Design Web, UX e UI Design
 - ⚙ Ferramentas: Sublime, VS Code, Figma, NetBeans
 
