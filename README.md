@@ -3,9 +3,9 @@
 
 
 <div align="justify">
-  Sou formada em Engenharia Civil pela Universidade Estadual de Londrina mas migrei para a área de Tecnologia da Informação. 
-  Estou trabalhando como desenvolvedora front-end, tenho conhecimentos em HTML, CSS, Java, Metodologias ágeis e atualmente estou estudando JavaScript.
-  Entre minhas áreas de interesse estão: Desenvolvimento Web, Design Web, UX e UI Design
+  Engenheira Civil migrando para a área de Tecnologia da Informação. 
+  Atualmente trabalhando como desenvolvedora front-end, tenho conhecimentos em HTML, CSS, Java, Metodologias ágeis e atualmente estou estudando JavaScript.
+  Entre minhas áreas de interesse estão: Desenvolvimento Web, Design Web, UX e UI Design.
 </div>
 
 <br>
