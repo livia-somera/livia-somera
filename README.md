@@ -1,13 +1,13 @@
-# Olá! Eu sou a Livia ☺
+<h1 align="center">Olá! Eu sou a Livia ☺</h1>
+<img align="right" src="https://i.picasion.com/pic91/8339b5742893ea3ec585816348db1aeb.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a>
+
 
 <div align="justify">
   Sou formada em Engenharia Civil pela Universidade Estadual de Londrina mas migrei para a área de Tecnologia da Informação. 
   Estou trabalhando como desenvolvedora front-end, tenho conhecimentos em HTML, CSS, Java, Metodologias ágeis e atualmente estou estudando JavaScript.
   Entre minhas áreas de interesse estão: Desenvolvimento Web, Design Web, UX e UI Design
 </div>
-<img align="right" src="https://i.picasion.com/pic91/8339b5742893ea3ec585816348db1aeb.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a>
 
-<br>
 <br>
 
 ## 🛠️ Linguagens e Ferramentas
