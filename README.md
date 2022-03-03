@@ -4,7 +4,7 @@
 
 <div align="justify">
   Engenheira Civil migrando para a área de Tecnologia da Informação. 
-  Atualmente trabalhando como desenvolvedora front-end, tenho conhecimentos em HTML, CSS, Java, Metodologias ágeis e atualmente estou estudando JavaScript.
+  Atualmente trabalhando como desenvolvedora front-end, tenho conhecimentos em HTML, CSS, Java, Metodologias ágeis e atualmente estou estudando JavaScript, TypeScript e React.
   Entre minhas áreas de interesse estão: Desenvolvimento Web, Design Web, UX e UI Design.
 </div>
 
