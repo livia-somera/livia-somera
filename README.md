@@ -1,11 +1,11 @@
 <h1 align="center">Olá! Eu sou a Livia ☺</h1>
-<img align="right" src="https://i.picasion.com/pic91/8339b5742893ea3ec585816348db1aeb.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a>
-
 
 <div align="justify">
-  Engenheira Civil migrando para a área de Tecnologia da Informação. 
-  Atualmente trabalhando como desenvolvedora front-end, tenho conhecimentos em HTML, CSS, Java, Metodologias ágeis e atualmente estou estudando JavaScript, TypeScript e React.
-  Entre minhas áreas de interesse estão: Desenvolvimento Web, Design Web, UX e UI Design.
+  Sou formada em engenharia civil e estou atuando no setor de Tecnologia da Informação como desenvolvedora web. 
+  
+  Trabalho com o desenvolvendo aplicações utilizando JavaScript, TypeScript, React e CSS e também estou envolvida em projetos relacionados à UI Design, desenvolvendo protótipos para dispositivos mobile e desktop.
+
+Iniciei minha transição para a área de programação com foco em front-end, onde foquei meus estudos em HTML, CSS e JavaScript, desenvolvendo pequenos sites e aplicações web e sigo estudando principalmente React, Metodologias Ágeis, ferramentas de prototipação e fundamentos de UX/UI Design.
 </div>
 
 <br>
@@ -30,7 +30,7 @@
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">  
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"> 
 </div> 
 
 <br>
@@ -39,4 +39,5 @@
 <div>
   <a href="https://www.linkedin.com/in/liviasomera/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto: liviafabrin.somera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/livia-somera" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
 </div>
