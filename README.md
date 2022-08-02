@@ -3,7 +3,7 @@
 <div align="justify">
   Sou formada em engenharia civil e estou atuando no setor de Tecnologia da Informação como desenvolvedora web. 
   
-  Trabalho com o desenvolvendo aplicações utilizando JavaScript, TypeScript, React e CSS e também estou envolvida em projetos relacionados à UI Design, desenvolvendo protótipos para dispositivos mobile e desktop.
+  Trabalho desenvolvendo aplicações utilizando JavaScript, TypeScript, React e CSS e também estou envolvida em projetos relacionados à UI Design, desenvolvendo protótipos para dispositivos mobile e desktop.
 
 Iniciei minha transição para a área de programação com foco em front-end, onde foquei meus estudos em HTML, CSS e JavaScript, desenvolvendo pequenos sites e aplicações web e sigo estudando principalmente React, Metodologias Ágeis, ferramentas de prototipação e fundamentos de UX/UI Design.
 </div>
