@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Livia ☺</h1>
+<h1 align="center">Olá! Eu sou a Livia </h1>
 
 <div align="justify">
   Sou formada em engenharia civil e estou atuando no setor de Tecnologia da Informação como desenvolvedora web. 
